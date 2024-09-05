@@ -6,7 +6,7 @@ TBD
 
 ## Overview
 
-This series consists of 18 2-hours meetings, structured around a nucleus of topics and organized in subseries.
+This series consists of approximately 18 2-hours meetings, structured around a nucleus of topics and organized in subseries.
 Each subseries is largely independent, though as the series goes on we will try to adapt the content to what has been explored during previous meetings.
 
 It is not a formal series of lectures, therefore there are no lecture notes (yet), but we will rather try to build together a series of cheatsheets that summarize the tools explored together.
@@ -22,12 +22,23 @@ Among the main sources of inspiration for this series:
 
 ## Topics
 
+1. Version control
+2. Containers
+3. Filesystem hierarchy
+4. Data wrangling
+5. Data formats
+6. Python
+7. Libraries
+8. Regular expressions
+9. Remote machines
+
+
 
 ## 2024-25 calendar
 
 | id | data   | titolo | argomenti | responsabile |
 |----|--------|--------|-----------|--------------|
-| 01 | 11-oct | Setting up the environment | formal language, programming languages, shell, IDE, plain text and file formats, machine readable?, Piano del corso | Ludovica |
+| 01 | 11-oct | How do computer programs run? | Intro to the meeting series, UNIX and stuff | Ludovica |
 | 02 | 25-oct |  | demo comandi shell base: muoversi nel filesystem, altri comandi essenziali (history, man...), script | Arianna |
 | 03 | 8-nov  |  | intro a versioning (motivazione, approccio di Git, Git vs. GitXXX, demo) | Arianna |
 | 04 | 22-Nov |
