@@ -14,6 +14,10 @@ In between meetings, the Lab will reserve some 20 mins-slots to help answer ques
 
 It's mostly about **doing** rather than **knowing how to do**!
 
+## Room for questions
+
+https://web.speakup.info/room/join/14685
+
 ## Sources and inspiration
 
 Among the main sources of inspiration for this series:
@@ -22,15 +26,23 @@ Among the main sources of inspiration for this series:
 
 ## Topics
 
-1. Version control
-2. Containers
-3. Filesystem hierarchy
-4. Data wrangling
-5. Data formats
-6. Python
-7. Libraries
-8. Regular expressions
-9. Remote machines
+1. Open source development
+
+
+2. Programming
+   1. formal languages
+   2. python
+   3.
+
+3. Version control
+4. Containers
+5. Filesystem hierarchy
+6. Data wrangling
+7. Data formats
+8. Python
+9.  Libraries
+10. Regular expressions
+11. Remote machines
 
 
 
@@ -41,19 +53,20 @@ Among the main sources of inspiration for this series:
 | 01 | 11-oct | How do computer programs run? | Intro to the meeting series, UNIX and stuff | Ludovica |
 | 02 | 25-oct |  | demo comandi shell base: muoversi nel filesystem, altri comandi essenziali (history, man...), script | Arianna |
 | 03 | 8-nov  |  | intro a versioning (motivazione, approccio di Git, Git vs. GitXXX, demo) | Arianna |
-| 04 | 22-Nov |
-| 05 | 13-Dec |
-| 06 | 17-Jan |
-| 07 | 24-Jan |
-| 08 | 7-Feb  |
-| 09 | 21-Feb |
-| 10 | 7-Mar  |
-| 11 | 21-Mar |
-| 12 | 4-Apr  |
-| 13 | 11-Apr |
-| 14 | 9-May  |
-| 15 | 23-May |
-| 16 | 6-Jun  |
-| 17 | 20-Jun |
-| 18 | 4-Jul  |
-| 19 | 18-Jul |
+| 04 | 15-Nov |
+| 05 | 29-Nov |
+| 06 | 13-Dec |
+| 07 | 17-Jan |
+| 08 | 24-Jan |
+| 09 | 7-Feb  |
+| 10 | 21-Feb |
+| 11 | 7-Mar  |
+| 12 | 21-Mar |
+| 13 | 4-Apr  |
+| 14 | 11-Apr |
+| 15 | 9-May  |
+| 16 | 23-May |
+| 17 | 6-Jun  |
+| 18 | 20-Jun |
+| 19 | 4-Jul  |
+| 20 | 18-Jul |
