@@ -14,15 +14,19 @@ In between meetings, the Lab will reserve some 20 mins-slots to help answer ques
 
 It's mostly about **doing** rather than **knowing how to do**!
 
+
 ## Room for questions
 
 https://web.speakup.info/room/join/14685
+
 
 ## Sources and inspiration
 
 Among the main sources of inspiration for this series:
 - [The missing semester of your CS education](https://missing.csail.mit.edu/)
 - [The CTP book](https://comp-think.github.io/)
+- [ASPP school materials](https://aspp.school/wiki/)
+
 
 ## Topics
 
@@ -48,9 +52,9 @@ Among the main sources of inspiration for this series:
 
 ## 2024-25 calendar
 
-| id | data   | titolo | argomenti | responsabile |
+| id | date   | title  | topics    | speaker      |
 |----|--------|--------|-----------|--------------|
-| 01 | 11-oct | How do computer programs run? | Intro to the meeting series, UNIX and stuff | Ludovica |
+| 01 | 11-oct | Setting up the environment | Intro to the meeting series, UNIX and stuff | Ludovica |
 | 02 | 25-oct |  | demo comandi shell base: muoversi nel filesystem, altri comandi essenziali (history, man...), script | Arianna |
 | 03 | 8-nov  |  | intro a versioning (motivazione, approccio di Git, Git vs. GitXXX, demo) | Arianna |
 | 04 | 15-Nov |
