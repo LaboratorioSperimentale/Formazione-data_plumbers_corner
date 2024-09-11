@@ -55,11 +55,11 @@ Among the main sources of inspiration for this series:
 | id | date   | title  | topics    | speaker      |
 |----|--------|--------|-----------|--------------|
 | 01 | 11-oct | Setting up the environment | Intro to the meeting series, UNIX and stuff | Ludovica |
-| 02 | 25-oct |  | demo comandi shell base: muoversi nel filesystem, altri comandi essenziali (history, man...), script | Arianna |
-| 03 | 8-nov  |  | intro a versioning (motivazione, approccio di Git, Git vs. GitXXX, demo) | Arianna |
-| 04 | 15-Nov |
+| 02 | 25-oct |  | demo comandi shell base: muoversi nel filesystem, altri comandi essenziali (history, man...), script | [Arianna Masciolini](https://github.com/harisont) |
+| 03 | 8-nov  |  | intro a versioning (motivazione, approccio di Git, Git vs. GitXXX, demo) | [Arianna Masciolini](https://github.com/harisont) |
+| 04 | 15-Nov | | | [Luca Rinaldi](https://github.com/lucarin91) |
 | 05 | 29-Nov |
-| 06 | 13-Dec |
+| 06 | 13-Dec | | | [Luca Rinaldi](https://github.com/lucarin91) |
 | 07 | 17-Jan |
 | 08 | 24-Jan |
 | 09 | 7-Feb  |
