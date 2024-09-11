@@ -26,23 +26,23 @@ Among the main sources of inspiration for this series:
 
 ## Topics
 
-1. Open source development
+1. scripting
+   1. bash
 
-
-2. Programming
+2. Coding
    1. formal languages
    2. python
-   3.
 
-3. Version control
-4. Containers
-5. Filesystem hierarchy
-6. Data wrangling
-7. Data formats
-8. Python
-9.  Libraries
-10. Regular expressions
-11. Remote machines
+3. Documenting and maintaning software
+
+4. Collaborative open source development
+   1. version control system (git)
+
+5. Computer architecture
+
+6. Software Systems
+   1. filesystem hierarchy
+
 
 
 
