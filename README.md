@@ -17,8 +17,7 @@ It's mostly about **doing** rather than **knowing how to do**!
 
 ## Room for questions
 
-https://web.speakup.info/room/join/14685
-
+https://web.speakup.info/room/join/99840
 
 ## Sources and inspiration
 
@@ -28,12 +27,12 @@ Among the main sources of inspiration for this series:
 - [ASPP school materials](https://aspp.school/wiki/)
 
 
-## Topics
 
 ## Topics
 
 1. scripting
    1. bash
+   2. regular expressions
 
 2. Coding
    1. formal languages
@@ -55,9 +54,9 @@ Among the main sources of inspiration for this series:
 
 | id | date   | title  | topics    | speaker      |
 |----|--------|--------|-----------|--------------|
-| 01 | 11-oct | Setting up the environment | Intro to the meeting series, UNIX and stuff | Ludovica |
-| 02 | 25-oct |  | demo comandi shell base: muoversi nel filesystem, altri comandi essenziali (history, man...), script | [Arianna Masciolini](https://github.com/harisont) |
-| 03 | 8-nov  |  | intro a versioning (motivazione, approccio di Git, Git vs. GitXXX, demo) | [Arianna Masciolini](https://github.com/harisont) |
+| 01 | 11-oct | Setting up the environment | Intro to the meeting series + (6) | Ludovica |
+| 02 | 25-oct |  | (1.1), (6.1)demo comandi shell base: muoversi nel filesystem, altri comandi essenziali (history, man...), script | [Arianna Masciolini](https://github.com/harisont) |
+| 03 | 8-nov  |  | (4.1) intro a versioning (motivazione, approccio di Git, Git vs. GitXXX, demo) | [Arianna Masciolini](https://github.com/harisont) |
 | 04 | 15-Nov | | | [Luca Rinaldi](https://github.com/lucarin91) |
 | 05 | 29-Nov |
 | 06 | 13-Dec | | | [Luca Rinaldi](https://github.com/lucarin91) |
