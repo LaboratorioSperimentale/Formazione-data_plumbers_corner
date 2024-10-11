@@ -14,20 +14,25 @@ In between meetings, the Lab will reserve some 20 mins-slots to help answer ques
 
 It's mostly about **doing** rather than **knowing how to do**!
 
+
 ## Room for questions
 
-https://web.speakup.info/room/join/14685
+https://web.speakup.info/room/join/99840
 
 ## Sources and inspiration
 
 Among the main sources of inspiration for this series:
 - [The missing semester of your CS education](https://missing.csail.mit.edu/)
 - [The CTP book](https://comp-think.github.io/)
+- [ASPP school materials](https://aspp.school/wiki/)
+
+
 
 ## Topics
 
 1. scripting
    1. bash
+   2. regular expressions
 
 2. Coding
    1. formal languages
@@ -45,17 +50,16 @@ Among the main sources of inspiration for this series:
 
 
 
-
 ## 2024-25 calendar
 
-| id | data   | titolo | argomenti | responsabile |
+| id | date   | title  | topics    | speaker      |
 |----|--------|--------|-----------|--------------|
-| 01 | 11-oct | How do computer programs run? | Intro to the meeting series, UNIX and stuff | Ludovica |
-| 02 | 25-oct |  | demo comandi shell base: muoversi nel filesystem, altri comandi essenziali (history, man...), script | Arianna |
-| 03 | 8-nov  |  | intro a versioning (motivazione, approccio di Git, Git vs. GitXXX, demo) | Arianna |
-| 04 | 15-Nov |
+| 01 | 11-oct | Setting up the environment | Intro to the meeting series + (6) | Ludovica |
+| 02 | 25-oct |  | (1.1), (6.1)demo comandi shell base: muoversi nel filesystem, altri comandi essenziali (history, man...), script | [Arianna Masciolini]([https://github.com/harisont](https://harisont.github.io/) |
+| 03 | 8-nov  |  | (4.1) intro a versioning (motivazione, approccio di Git, Git vs. GitXXX, demo) | [Arianna Masciolini]([https://github.com/harisont](https://harisont.github.io/) |
+| 04 | 15-Nov | | | [Luca Rinaldi](https://github.com/lucarin91) |
 | 05 | 29-Nov |
-| 06 | 13-Dec |
+| 06 | 13-Dec | | | [Luca Rinaldi](https://github.com/lucarin91) |
 | 07 | 17-Jan |
 | 08 | 24-Jan |
 | 09 | 7-Feb  |
@@ -70,3 +74,10 @@ Among the main sources of inspiration for this series:
 | 18 | 20-Jun |
 | 19 | 4-Jul  |
 | 20 | 18-Jul |
+
+
+## Tools to install (updated during the series):
+   * [VSCode](https://code.visualstudio.com/): any editor/IDE works, in fact. This is just a way to be all on the same page and be helpful to each other. Why VSCode? It can be used as a simple text/source code editor, but it can be as well plugged-in to be used as a full-fledged developing toolkit. It works cross-platform and provides support for many programming languages.
+   * [Git](https://git-scm.com/): again we could use many versioning softwares to get the idea, but git is the de facto standard and 99% of the software out there is developed with Git.
+   * [Bash - Bourne Again SHell](https://www.gnu.org/software/bash/): it is the default for Linux-based systems, it has to be set as default on MacOS (still UNIX, [how to do it](https://medium.com/@alvyynm/how-to-change-your-default-shell-from-zsh-to-bash-on-mac-0bbd481b4a8d)). On Windows things are a little more complicated, you can install [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) and we'll see from there.
+   * [Python3](https://www.python.org/downloads/)
