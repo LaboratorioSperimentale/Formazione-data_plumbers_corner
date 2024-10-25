@@ -55,9 +55,9 @@ Among the main sources of inspiration for this series:
 | id | date   | title  | topics    | speaker      |
 |----|--------|--------|-----------|--------------|
 | 01 | 11-oct | Setting up the environment | Intro to the meeting series + (6) | Ludovica |
-| 02 | 25-oct |  | (1.1), (6.1)demo comandi shell base: muoversi nel filesystem, altri comandi essenziali (history, man...), script | [Arianna Masciolini](https://harisont.github.io/) |
+| 02 | 25-oct | Introducing the terminal | (1.1), (6.1) demo comandi shell base: muoversi nel filesystem, altri comandi essenziali (history, man...), script | [Arianna Masciolini](https://harisont.github.io/) |
 | 03 | 8-nov  |  | (4.1) intro a versioning (motivazione, approccio di Git, Git vs. GitXXX, demo) | [Arianna Masciolini](https://harisont.github.io/) |
-| 04 | 15-Nov | | | [Luca Rinaldi](https://github.com/lucarin91) |
+| 04 | 15-Nov | | (2.2) intro a manipolazione dati in Python | [Luca Rinaldi](https://github.com/lucarin91) |
 | 05 | 29-Nov |
 | 06 | 13-Dec | | | [Luca Rinaldi](https://github.com/lucarin91) |
 | 07 | 17-Jan |
