@@ -21,7 +21,7 @@ institute: "Språkbanken Text, University of Gothenburg"
 3. Text processing example <!--live demo & exercises-->
 
 ## What you will need
-A UNIX-like shell (preferably __bash__) or, if you don't have one installed on your laptop, an online one:
+A UNIX-like shell (preferably __bash__) or, if you don't have one installed on your laptop, \color{SecondaryColor}[an online one](https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192)\color{black}:
 
 ![](qr_online_bash.png)
 
