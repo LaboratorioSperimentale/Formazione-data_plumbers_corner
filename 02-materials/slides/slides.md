@@ -40,13 +40,13 @@ Today, a terminal _emulator_ is:
 ## Why do we still use a terminal?
 - many useful programs only have a textual interface
 - certain operations are more efficient (or just easier!) if performed through the command line
-- using the terminal is the best way to run your Python programs
+- it is the best way to run your own programs
 - you will often interact with servers via the command line
 
 ## What about bash?
 - bash is a very popular *command-line shell* and *scripting language*
 - it was an important part of \color{SecondaryColor}[the UNIX operating system](https://www.youtube.com/watch?v=tc4ROCJYbm0) \color{black}
-- today, it is preinstalled on all Linux and MacOS systems, but not on Windows (hence WSL)
+- today, it is preinstalled on most Linux ($\to$ basically every server in the galaxy) and MacOS systems, but not on Windows (hence WSL)
 
 ## Exercises
 Modify the text processing command so to:
