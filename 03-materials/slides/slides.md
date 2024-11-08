@@ -1,5 +1,5 @@
 ---
-title: "Basics of version control and collaborative development with Git"
+title: "Basics of version control"
 subtitle: "Data plumbers' corner, session 3"
 author: "Arianna Masciolini"
 theme: "lucid"
@@ -48,10 +48,14 @@ Modify the text processing command so to:
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flinuxreviews.org%2Fimages%2Fthumb%2F9%2F90%2FLinuxCon_Europe_Linus_Torvalds_upperhalf.jpg%2F1800px-LinuxCon_Europe_Linus_Torvalds_upperhalf.jpg&f=1&nofb=1&ipt=05b41b7ad432ef5cf5d9677317a42bcc50b21761e3c7919ec5bc5d7ab2484a29&ipo=images)
 
-\footnotesize \centering Linus Torvalds, the creator of both Linux and Git
+\vskip -5pt \footnotesize \centering Linus Torvalds, the creator of both Linux and Git
+
+\vskip -7pt \tiny \centering recommended: [\underline{youtube.com/watch?v=4XpnKHJAok8}](youtube.com/watch?v=4XpnKHJAok8)
 
 ## Git: basic concepts
 ![](xkcd.png)
+
+\vskip -10pt \tiny \centering image from [\underline{xkcd.com}](xkcd.com)
 
 - (named) filesystem snapshots rather than patches
 - version history as a directed graph
