@@ -55,6 +55,8 @@ Modify the text processing command so to:
 - show the 20 _least_ frequent words
 - show all words and their counts _in alphabetical order_
 - write the results to a new text file
+- show the 10 most frequent words, _excluding punctuation_
+- show all words _whose frequency is exactly 1_
 - ...
 
 ## Next time
