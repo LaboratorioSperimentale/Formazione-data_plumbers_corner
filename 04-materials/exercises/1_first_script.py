@@ -25,15 +25,15 @@ for word in words:
         print(f"La parola '{word}' ha più di 5 caratteri.")
 
 
-map = {}
+alpha_map = {}
 for word in words:
-    if word[0] not in map:
-        map[word[0]] = []
+    if word[0] not in alpha_map:
+        alpha_map[word[0]] = []
 
-    map[word[0]].append(word)
+    alpha_map[word[0]].append(word)
 
 
 print("----------------------------------")
 
-for key, value in map.items():
+for key, value in alpha_map.items():
     print(f"Le parole che iniziano con '{key}' sono: {value}")
