@@ -48,28 +48,28 @@ Among the main sources of inspiration for this series:
 
 ## 2024-25 calendar
 
-| id  | date   | title                      | topics                                                                                                            | speaker                                           |
-| --- | ------ | -------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| 01  | 11-oct | Setting up the environment | Intro to the meeting series + (6)                                                                                 | Ludovica                                          |
+| id  | date   | title | topics | speaker |
+| --- | ------ | ----- | ------ | ------- |
+| 01  | 11-oct | Setting up the environment | Intro to the meeting series + (6) | Ludovica |
 | 02  | 25-oct | Introducing the terminal   | (1.1), (6.1) demo comandi shell base: muoversi nel filesystem, altri comandi essenziali (history, man...), script | [Arianna Masciolini](https://harisont.github.io/) |
-| 03  | 8-nov  | Basics of version control  | (4.1) intro a versioning (motivazione, approccio di Git, Git vs. GitXXX, demo)                                    | [Arianna Masciolini](https://harisont.github.io/) |
-| 04  | 15-Nov |                            | (2.2) intro a manipolazione dati in Python                                                                        | [Luca Rinaldi](https://github.com/lucarin91)      |
-| 05  | 29-Nov |                            |                                                                                                                   |                                                   |
-| 06  | 13-Dec |                            |                                                                                                                   | [Luca Rinaldi](https://github.com/lucarin91)      |
-| 07  | 17-Jan |                            |                                                                                                                   |                                                   |
-| 08  | 24-Jan |                            |                                                                                                                   |                                                   |
-| 09  | 7-Feb  |                            |                                                                                                                   |                                                   |
-| 10  | 21-Feb |                            |                                                                                                                   |                                                   |
-| 11  | 7-Mar  |                            |                                                                                                                   |                                                   |
-| 12  | 21-Mar |                            |                                                                                                                   |                                                   |
-| 13  | 4-Apr  |                            |                                                                                                                   |                                                   |
-| 14  | 11-Apr |                            |                                                                                                                   |                                                   |
-| 15  | 9-May  |                            |                                                                                                                   |                                                   |
-| 16  | 23-May |                            |                                                                                                                   |                                                   |
-| 17  | 6-Jun  |                            |                                                                                                                   |                                                   |
-| 18  | 20-Jun |                            |                                                                                                                   |                                                   |
-| 19  | 4-Jul  |                            |                                                                                                                   |                                                   |
-| 20  | 18-Jul |                            |                                                                                                                   |                                                   |
+| 03  | 8-nov  | Bash Pipelines  | (1.1) + (4.1) intro a versioning (motivazione, approccio di Git)| [Arianna Masciolini](https://harisont.github.io/) |
+| 04  | 15-Nov | Basics of Python | (2.2) intro a manipolazione dati in Python | [Luca Rinaldi](https://github.com/lucarin91)  |
+| 05  | 29-Nov | Basics of version control and some more Python |  (Git vs. GitXXX, demo)     | Ludovica |
+| 06  | 13-Dec | Working remotely |  | [Luca Rinaldi](https://github.com/lucarin91)   |
+| 07  | 17-Jan |                            |                 |  |
+| 08  | 24-Jan |                            |                 |  |
+| 09  | 7-Feb  |                            |                 |  |
+| 10  | 21-Feb |                            |                 |  |
+| 11  | 7-Mar  |                            |                 |  |
+| 12  | 21-Mar |                            |                 |  |
+| 13  | 4-Apr  |                            |                 |  |
+| 14  | 11-Apr |                            |                 |  |
+| 15  | 9-May  |                            |                 |  |
+| 16  | 23-May |                            |                 |  |
+| 17  | 6-Jun  |                            |                 |  |
+| 18  | 20-Jun |                            |                 |  |
+| 19  | 4-Jul  |                            |                 |  |
+| 20  | 18-Jul |                            |                 |  |
 
 ## Tools to install (updated during the series)
 
