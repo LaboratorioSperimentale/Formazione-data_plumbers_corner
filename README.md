@@ -60,9 +60,9 @@ Among the main sources of inspiration for this series:
 | 08  | 7-Feb |                            |                 |  |
 | 09  | 21-Feb  |                            |                 |  |
 | 10  | 7-Mar |                            |                 |  |
-| 11  | 14-Mar  |                            |                 |  |
-| 12  | 21-Mar |                            |                 |  |
-| 13  | 4-Apr  |                            |                 |  |
+| 11  | 14-Mar  | Regular expressions       |                 | Ludovica |
+| 12  | 21-Mar |  Regular expressions      |                 | Ludovica |
+| 13  | 4-Apr  |  Regular expressions       |                 | Ludovica |
 | 14  | ---    |                            |                 |  |
 | 15  | ---    |                            |                 |  |
 | 16  | ---    |                            |                 |  |
