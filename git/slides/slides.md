@@ -1,6 +1,6 @@
 ---
 title: "Basics of version control"
-subtitle: "Data plumbers' corner, session 8"
+subtitle: "Data plumbers' corner, session 7"
 author: "Arianna Masciolini"
 theme: "lucid"
 date: "23 January 2025"
