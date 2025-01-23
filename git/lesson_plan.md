@@ -1,13 +1,5 @@
 # Basics of version control
 
-## Previously on Plumbers' corner
-
-> Materials from 02
-
-1. "Alice example" again
-2. variations on the theme of Alice (exercises - __Ludovica: feel free to add more__)
-3. [`alice.sh`](../02-materials/alice.sh)
-
 ## Intro to versioning
 
 > Slides
@@ -40,13 +32,10 @@
 - if there is time: create and checkout a new branch
 
 ### Remote usage with GitHub (as a simple backup)
-- creating a repository in GitHub
-- `git clone`
-- `git push`
+- importing your repository in GitHub
+- `git push` (+ authentication yay)
 - `git pull`
-- if there is time: readmes and gitignores
 
-### Collaborative usage with GitHub
-- pull requests (opening, reviewing, merging)
-- if there is time: resolving merge conflicts
-- issues
+### Bonus: adding some structure
+- README files
+- .gitignores

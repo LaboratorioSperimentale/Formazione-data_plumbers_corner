@@ -9,13 +9,13 @@ institute: "Språkbanken Text, University of Gothenburg"
 
 ## Today's session
 1. intro to version control and Git (again)
-2. hands-on Git tutorial
-3. first steps with GitHub
+2. hands-on Git(Hub) tutorial
 
 ## What you will need
 - a Unix-like shell 
 - the basic Git CLI program
 - a GitHub account
+- (if you use VSCode, I can recommend an extension called Git Graph)
 
 ## Manual versioning
 \bigskip
@@ -46,6 +46,6 @@ institute: "Språkbanken Text, University of Gothenburg"
 - several interfaces and "hubs"
 
 ## Hands-on Git tutorial
-1. local usage (simple versioning)
-2. setting up a remote GitHub repository \newline (versioning + backup)
+1. __local usage__ (simple versioning)
+2. __setting up a remote GitHub repository__ \newline (versioning + backup)
 3. collaborative usage with GitHub
