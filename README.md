@@ -60,8 +60,8 @@ Among the main sources of inspiration for this series:
 | 04  | 15-Nov | Introducing Python                   | [Intro to data processing with Python](python) (2.2)                     | [Luca Rinaldi](https://github.com/lucarin91)      |
 | 05  | 29-Nov | Some more Python                     | [Intro to data processing with Python (continuation)](python) (2.2)      | Ludovica Pannitto                                 |
 | 06  | 13-Dec | Working on data remotely             | [Working on data remotely](working_remotely)                             | [Luca Rinaldi](https://github.com/lucarin91)      |
-| 07  | 24-Jan | Basics of version control            | [Versioning; basics of Git(Hub), READMEs and .gitignores](git) (4.1-4)   | [Arianna Masciolini](https://harisont.github.io/) |
-| 08  | 7-Feb  | Collaborating on GitHub              | [Issues, forks, PRs, conflicts](collaboration) (4.5)                     |                                                   |
+| 07  | 24-Jan | Basics of version control            | [Versioning; basics of Git(Hub); READMEs; .gitignores](git) (4.1-4)      | [Arianna Masciolini](https://harisont.github.io/) |
+| 08  | 7-Feb  | Collaborating on GitHub              | [Issues; forks; PRs; conflicts](collaboration) (4.5)                     |                                                   |
 | 09  | 21-Feb |                                      |                                                                          |                                                   |
 | 10  | 7-Mar  |                                      |                                                                          |                                                   |
 | 11  | 14-Mar | Regular expressions                  |                                                                          | Ludovica Pannitto                                 |
