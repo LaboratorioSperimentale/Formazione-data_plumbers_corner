@@ -28,14 +28,11 @@
 - `git add` (+ concept of _staged file_)
 - `git commit` (+ concept of _committed file_)
 - (`git stash`)
-- `git log`
+- `git log`/Graph
 - if there is time: create and checkout a new branch
+- bonus: .gitignores
 
 ### Remote usage with GitHub (as a simple backup)
 - importing your repository in GitHub
 - `git push` (+ authentication yay)
 - `git pull`
-
-### Bonus: adding some structure
-- README files
-- .gitignores
