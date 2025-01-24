@@ -51,3 +51,18 @@ institute: "Språkbanken Text, University of Gothenburg"
 1. __local usage__ (simple versioning)
 2. __setting up a remote GitHub repository__ \newline (versioning + backup)
 3. collaborative usage with GitHub
+
+## Basic commands overview
+
+\small
+| __`git` command__ | __meaning__ |
+| --- | --- |
+| `init` | initialize a new repository in the current folder |
+| `status` | see what files have been modified/added/removed |
+| `add` | add file to staging area to include it in the next commit |
+| `commit` | create a named snapshot |
+| `stash` | saves current state on a stack of unfinished changes |
+| `log` | see commit history |
+| `checkout` | move to a different branch/commit |
+| `push` | send changes to a remote repo |
+| `pull` | download changes from a remote repo |
