@@ -19,6 +19,7 @@ institute: "Språkbanken Text, University of Gothenburg"
 
 ## Manual versioning
 \bigskip
+\bigskip
 ![](final.png)
 
 ## Version Control Systems
@@ -27,6 +28,7 @@ institute: "Språkbanken Text, University of Gothenburg"
 4. need to work offline and prevent the server from being the "single point of failure": __distributed VCSs__ (e.g. Git, the current _de facto_ standard)
 
 ## Behind Git
+\bigskip
 \bigskip
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flinuxreviews.org%2Fimages%2Fthumb%2F9%2F90%2FLinuxCon_Europe_Linus_Torvalds_upperhalf.jpg%2F1800px-LinuxCon_Europe_Linus_Torvalds_upperhalf.jpg&f=1&nofb=1&ipt=05b41b7ad432ef5cf5d9677317a42bcc50b21761e3c7919ec5bc5d7ab2484a29&ipo=images)
