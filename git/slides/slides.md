@@ -3,7 +3,7 @@ title: "Basics of version control"
 subtitle: "Data plumbers' corner, session 7"
 author: "Arianna Masciolini"
 theme: "lucid"
-date: "23 January 2025"
+date: "24 January 2025"
 institute: "Språkbanken Text, University of Gothenburg"
 ---
 
