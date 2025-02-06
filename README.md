@@ -57,7 +57,7 @@ Among the main sources of inspiration for this series:
 | 05  | 29-Nov | Some more Python |  (2.2)                      | Ludovica |
 | 06  | 13-Dec | Working on data remotely   |                                                                  | [Luca Rinaldi](https://github.com/lucarin91)   |
 | 07  | 24-Jan |  Git introduction          |                 |  [Arianna Masciolini](https://harisont.github.io/) |
-| 08  | 7-Feb |                            |                 |  |
+| 08  | 7-Feb |                            |                 | Ludovica |
 | 09  | 21-Feb  |                            |                 |  |
 | 10  | 7-Mar |                            |                 |  |
 | 11  | 14-Mar  | Regular expressions       |                 | Ludovica |
