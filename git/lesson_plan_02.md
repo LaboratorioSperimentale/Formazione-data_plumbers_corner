@@ -25,6 +25,18 @@
 
 
 | word  | text | movie1 | movie2 | movie3 | ... |
-| ---   | ---  | ----   | ---    | ---    | --- |
-| word1 | 10   |  15    | 67     | 23     | ... |
+| ----- | ---- | ------ | ------ | ------ | --- |
+| word1 | 10   | 15     | 67     | 23     | ... |
 | word2 | 200  | 34     | 10     | 1      | ... |
+|   ... | ...  | ...    |  ...   | ...    | ... |
+
+
+Topics:
+- how to parse `srts`?
+- use a specific library! how to install it?
+- use a virtual environment (do we synchronize it? Reproducibility)
+- provide users with instructions
+
+Next time:
+- create a branch and add a separate disruptive feature
+- update someone else's code (PR)
