@@ -33,7 +33,7 @@
 
 Topics:
 - how to parse `srts`?
-- use a specific library! how to install it?
+- use a specific [library](https://srt.readthedocs.io/en/latest/quickstart.html)! how to install it?
 - use a virtual environment (do we synchronize it? Reproducibility)
 - provide users with instructions
 
