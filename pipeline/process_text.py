@@ -1,5 +1,6 @@
 import sys
 
+# filename_input = input("Inserisci nome file: ")
 filename_input = sys.argv[1]
 filename_output = sys.argv[2]
 
@@ -14,6 +15,11 @@ with open(filename_input, "r", encoding="utf-8") as file_input:
 				frequencies[word] = 0
 
 			frequencies[word] += 1
+
+
+# for word in frequencies:
+# 	print(f"{word:20}\t{frequencies[word]:5}")
+	# input()
 
 with open(filename_output, "w", encoding="utf-8") as file_output:
 	for word in frequencies:
