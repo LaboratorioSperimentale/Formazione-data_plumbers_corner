@@ -61,12 +61,12 @@ Among the main sources of inspiration for this series:
 | 05  | 29-Nov | Some more Python                     | [Intro to data processing with Python (continuation)](python) (2.2)      | Ludovica Pannitto                                 |
 | 06  | 13-Dec | Working on data remotely             | [Working on data remotely](working_remotely)                             | [Luca Rinaldi](https://github.com/lucarin91)      |
 | 07  | 24-Jan | Basics of version control            | [Versioning; basics of Git(Hub); .gitignores](git) (4.1-3)               | [Arianna Masciolini](https://harisont.github.io/) |
-| 08  | 7-Feb  | Collaborating on GitHub              | [Issues; forks; PRs; conflicts; READMEs](collaboration) (4.4-5)          |                                                   |
-| 09  | 21-Feb |                                      |                                                                          |                                                   |
-| 10  | 7-Mar  |                                      |                                                                          |                                                   |
-| 11  | 14-Mar | Regular expressions                  |                                                                          | Ludovica Pannitto                                 |
-| 12  | 21-Mar | Regular expressions                  |                                                                          | Ludovica Pannitto                                 |
-| 13  | 4-Apr  | Regular expressions                  |                                                                          | Ludovica Pannitto                                 |
+| 08  | 7-Feb  | Collaborating on GitHub              | [Issues; forks; PRs; conflicts; READMEs](collaboration) (4.4-5)          | Ludovica Pannitto                                 |
+| 09  | 7-Mar  |                                      |                                                                          | Ludovica Pannitto                                 |
+| 10  | 14-Mar | Regular expressions                  |                                                                          | Ludovica Pannitto                                 |
+| 11  | 21-Mar | Regular expressions                  |                                                                          | Ludovica Pannitto                                 |
+| 12  | 4-Apr  | Regular expressions                  |                                                                          | Ludovica Pannitto                                 |
+| 13  | ---    |                                      |                                                                          |                                                   |
 | 14  | ---    |                                      |                                                                          |                                                   |
 | 15  | ---    |                                      |                                                                          |                                                   |
 | 16  | ---    |                                      |                                                                          |                                                   |
