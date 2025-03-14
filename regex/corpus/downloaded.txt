@@ -1,0 +1,4 @@
+@blogger It is possible to have an anaphor that has no lexical\
+zero anaphor realization at all, called \na zero anaphor or zero pronoun, as in the https://medium.com following Italian\n\
+and Japanese examples from Poesio et al. (2016):
+(21.15) EN [John]i bla bla http://medium.com #NLP @blogger
