@@ -1,1 +1,2 @@
-Questo nuovo file serve a provare un pull
+Nella riga 1 c'è scritto ciao
+nella riga 2 c'è scritto brucaliffo.

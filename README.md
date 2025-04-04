@@ -65,10 +65,10 @@ Among the main sources of inspiration for this series:
 | 09  | 7-Mar  |                                      |                                                                          | Ludovica Pannitto                                 |
 | 10  | 14-Mar | Regular expressions                  |                                                                          | Ludovica Pannitto                                 |
 | 11  | 21-Mar | Regular expressions                  |                                                                          | Ludovica Pannitto                                 |
-| 12  | 4-Apr  | Regular expressions                  |                                                                          | Ludovica Pannitto                                 |
-| 13  | ---    |                                      |                                                                          |                                                   |
-| 14  | ---    |                                      |                                                                          |                                                   |
-| 15  | ---    |                                      |                                                                          |                                                   |
+| 12  | 4-Apr  | Regular expressions + scripting      |                                                                          | Ludovica Pannitto                                 |
+| 13  | 11-Apr | Small project ideas + assignment     |                                                                          | Ludovica Pannitto                                 |
+| 14  | 9-May  | Asynchronous                         |                                                                          | ---                                               |
+| 15  | 23-May |                                      |                                                                          | Bruno Guillaume                                   |
 | 16  | ---    |                                      |                                                                          |                                                   |
 | 17  | ---    |                                      |                                                                          |                                                   |
 | 18  | ---    |                                      |                                                                          |                                                   |
