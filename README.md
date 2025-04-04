@@ -63,7 +63,7 @@ Among the main sources of inspiration for this series:
 | 07  | 24-Jan | Basics of version control            | [Versioning; basics of Git(Hub); .gitignores](git) (4.1-3)               | [Arianna Masciolini](https://harisont.github.io/) |
 | 08  | 7-Feb  | Collaborating on GitHub              | [Issues; forks; PRs; conflicts; READMEs](collaboration) (4.4-5)          | Ludovica Pannitto                                 |
 | 09  | 7-Mar  |                                      |                                                                          | Ludovica Pannitto                                 |
-| 10  | 14-Mar | Regular expressions                  |                                                                          | Ludovica Pannitto                                 |
+| 10  | 14-Mar | Regular expressions                  | [Regex tutorial](https://github.com/ellepannitto/regex_tutorial)         | Ludovica Pannitto                                 |
 | 11  | 21-Mar | Regular expressions                  |                                                                          | Ludovica Pannitto                                 |
 | 12  | 4-Apr  | Regular expressions + scripting      |                                                                          | Ludovica Pannitto                                 |
 | 13  | 11-Apr | Small project ideas + assignment     |                                                                          | Ludovica Pannitto                                 |
