@@ -43,3 +43,5 @@ Il programma continua finché l’utente non scrive "fine".
 	```
 
 11. Data una stringa letta dall'input (es. `adoro programmare in Python!`) scrivere un programma che stampa la frequenza di ogni lettera all'interno della stringa (non importa se alcune lettere vengono conteggiate più volte!)
+
+12. Scrivere un programma che fa giocare l'utente al gioco dell'impiccato.
