@@ -54,3 +54,48 @@ Esempio:
 3. Scrivi un programma che legge una sequenza di stringhe, finchè non incontra la parola `fine`. Il programma conta il numero di parole che iniziano per ogni vocale (`a`, `e`, `i`, `o`, `u`).
 
 4. Scrivi un programma che legge `5` lettere, e poi una sequenza di stringhe finchè non incontra la parola `fine`. Il programma conta il numero di parole che iniziano per ogni lettera letta.
+
+5. Scrivi un programma che legge tre serie di numeri. Ogni serie è definita dal fatto che finisce con `0`. Per ogni serie letta, il programma stampa tutti i numeri letti al contrario.
+
+	Input:
+	```
+	4
+	12
+	0
+	9
+	7
+	6
+	0
+	4
+	1
+	-3
+	8
+	0
+	```
+
+	Output:
+	```
+	[12, 4]
+	[6, 7, 9]
+	[8, -3, 1, 4]
+	```
+
+6. Scrivi un programma che legge una serie di numeri dispari terminata da `0`. Per ogni numero `n` della serie il programma stampa un rombo di asterischi come negli esempi seguenti:
+
+	```
+	# n = 3
+	  *
+	 ***
+	  *
+	```
+
+	```
+	# n = 7
+	   *
+	  ***
+	 *****
+	*******
+     *****
+	  ***
+	   *
+	```
