@@ -37,4 +37,61 @@
 	```
 	Il programma produce in output: "pane, formaggio, salame"
 
+3. Scrivi un programma che legge due numeri dall'input (base, altezza) e stampa un rettangolo vuoto dentro di dimensioni base x altezza
+   Ad esempio se legge i numeri:
+   ```
+   4
+   6
 
+   ```
+	Produce in output
+   ```
+   ******
+   *    *
+   *    *
+   ******
+   ```
+
+4. Scrivi un programma che legge tre numeri dall'input (k, base, altezza) e stampa k rettangoli vuoti dentro di dimensioni base x altezza.
+   Ad esempio se legge i numeri:
+   ```
+   3
+   4
+   6
+
+   ```
+	Produce in output
+   ```
+   ****** ****** ******
+   *    * *    * *    *
+   *    * *    * *    *
+   ****** ****** ******
+   ```
+
+5. Scrivi un programma che legge dall'input un numero e stampa una piramide come nell'esempio seguente:
+   Input:
+   ```
+   5
+   ```
+   Output:
+   ```
+	1
+	22
+	333
+	4444
+	55555
+   ```
+
+5. Scrivi un programma che legge dall'input un numero e stampa una piramide come nell'esempio seguente:
+   Input:
+   ```
+   5
+   ```
+   Output:
+   ```
+	1
+	12
+	123
+	1234
+	12345
+   ```
