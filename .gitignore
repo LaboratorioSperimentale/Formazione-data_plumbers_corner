@@ -7,4 +7,4 @@ mail_dipartimento.txt
 *__pycache__*
 .DS_Store
 es-5-liste.py
-.gitignore
+.vscode/
