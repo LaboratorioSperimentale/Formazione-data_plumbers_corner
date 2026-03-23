@@ -1,0 +1,6 @@
+joinatore	stringhe
+, 	
+pane
+formaggio
+salame
+fine

@@ -4,3 +4,7 @@ mail_dipartimento.txt
 01-materials/extremelylongfile.txt
 01-materials/superlongfile.txt
 .venv
+*__pycache__*
+.DS_Store
+es-5-liste.py
+.gitignore

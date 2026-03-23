@@ -1,0 +1,35 @@
+Sto leggendo dal file: input-es5.txt
+Ho letto 5 dal file:
+1
+22
+333
+4444
+55555
+Ho letto 6 dal file:
+1
+22
+333
+4444
+55555
+666666
+Ho letto 7 dal file:
+1
+22
+333
+4444
+55555
+666666
+7777777
+Sto leggendo dal file: input2-es5.txt
+Ho letto 2 dal file:
+1
+22
+Ho letto 3 dal file:
+1
+22
+333
+Ho letto 4 dal file:
+1
+22
+333
+4444

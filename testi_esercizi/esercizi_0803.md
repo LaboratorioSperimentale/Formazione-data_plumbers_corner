@@ -82,7 +82,7 @@
 	55555
    ```
 
-5. Scrivi un programma che legge dall'input un numero e stampa una piramide come nell'esempio seguente:
+6. Scrivi un programma che legge dall'input un numero e stampa una piramide come nell'esempio seguente:
    Input:
    ```
    5

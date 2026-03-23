@@ -1,0 +1,2 @@
+PAROLA_SEGRETA = "Natale"
+GUESS = "_"*len(PAROLA_SEGRETA)
