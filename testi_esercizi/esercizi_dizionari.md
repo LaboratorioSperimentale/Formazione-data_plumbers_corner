@@ -30,9 +30,9 @@
    {'b': 1, 'a': 3, 'n': 2}
    ```
 
-4. Scrivi un programma che legge un file di testo contenente una parola per riga e stampa la parola che compare più volte. Se ci sono pareggi, basta stamparne una.
+4. Scrivi un programma che legge un file di testo (es. vedi file [parole.txt](../materiali_esercizi/parole.txt)) contenente una parola per riga e stampa la parola che compare più volte. Se ci sono pareggi, basta stamparne una.
 
-5. Scrivi un programma che legge un file di testo riga per riga e produce un secondo file che contiene solo le righe che contengono la parola `palla` (senza distinzione tra maiuscole e minuscole).
+5. Scrivi un programma che legge un file di testo riga per riga (es. vedi file [testo_palla.txt](../materiali_esercizi/testo_palla.txt)) e produce un secondo file che contiene solo le righe che contengono la parola `palla` (senza distinzione tra maiuscole e minuscole).
 
 6. Scrivi un programma che legge un file di testo riga per riga e conta quante righe ci sono, quante parole ci sono in totale e quanti caratteri ci sono in totale. Alla fine stampa i tre conteggi.
 
